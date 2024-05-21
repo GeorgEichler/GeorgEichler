@@ -2,7 +2,7 @@
 - 👀 I’m interested in scientific computing, applications of machine learning in maths and computer vision.
 - 🌱 I’m currently learning deep learning algorithms.
 - 💞️ I’m looking to collaborate on hackathons to further train my machine learning knowledge.
-- 📫 How to reach me: georg_eichler@wweb.de
+- 📫 How to reach me: georg_eichler@web.de
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: adore cats but have a lovely dog :)
 
